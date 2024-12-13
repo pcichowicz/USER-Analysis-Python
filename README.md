@@ -11,6 +11,3 @@ Python version of Uracil-Specific Excision Reagent Treatment analysis script.
 
 More information can be found here : https://github.com/pcichowicz/USER-Reduction
 
-[![Project Status: Moved to [http://example.com](https://github.com/pcichowicz/USER-Reduction) – The project has been moved to a new location, and the version at that location should be considered authoritative.](https://www.repostatus.org/badges/latest/moved.svg)](https://www.repostatus.org/#moved) to [https://github.com/pcichowicz/USER-Reduction](https://github.com/pcichowicz/USER-Reduction)
-
-
